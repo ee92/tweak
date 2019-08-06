@@ -1,0 +1,10 @@
+.root {
+   display: flex;
+   flex: 1;
+}
+
+.test {
+   background-color: rgb(70, 209, 140);
+   width: 100px;
+   height: 100px;
+}
